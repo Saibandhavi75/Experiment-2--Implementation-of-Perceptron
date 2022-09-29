@@ -43,8 +43,10 @@ Print the accuracy
 
 
 ### PROGRAM:
+```
 Name: Aruru Sai Bandhavi
 reg no:212221240006
+```
  ```
 import numpy as np
 import pandas as pd
@@ -182,5 +184,8 @@ plot_decision_regions(x_test, y_test)
 
  ```
  
+ ### Output:
+ ![output](https://github.com/Saibandhavi75/Experiment-2--Implementation-of-Perceptron/blob/main/op1.png?raw=true)
+ ![output](https://github.com/Saibandhavi75/Experiment-2--Implementation-of-Perceptron/blob/main/op2.png?raw=true)
 ### Result:
 
