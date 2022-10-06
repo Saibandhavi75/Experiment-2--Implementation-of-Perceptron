@@ -186,15 +186,15 @@ plot_decision_regions(x_test, y_test)
  
  ### Output:
  ### Dataset:
- ![output](https://github.com/Saibandhavi75/Experiment-2--Implementation-of-Perceptron/blob/main/k-1.png?raw=true)
+ ![output](https://github.com/Saibandhavi75/Experiment-2--Implementation-of-Perceptron/blob/main/4-1.png?raw=true)
  ### Scatterplot:
- ![output](https://github.com/Saibandhavi75/Experiment-2--Implementation-of-Perceptron/blob/main/k-2.png?raw=true)
+ ![output](https://github.com/Saibandhavi75/Experiment-2--Implementation-of-Perceptron/blob/main/4-2.png?raw=true)
  ### Y-axis:
- ![output](https://github.com/Saibandhavi75/Experiment-2--Implementation-of-Perceptron/blob/main/k-3.png?raw=true)
+ ![output](https://github.com/Saibandhavi75/Experiment-2--Implementation-of-Perceptron/blob/main/4-3.png?raw=true)
  ### Errorplot:
- ![output](https://github.com/Saibandhavi75/Experiment-2--Implementation-of-Perceptron/blob/main/k-4.png?raw=true)
+ ![output](https://github.com/Saibandhavi75/Experiment-2--Implementation-of-Perceptron/blob/main/4-4.png?raw=true)
  ### Accuracy:
- ![output](https://github.com/Saibandhavi75/Experiment-2--Implementation-of-Perceptron/blob/main/k-5.png?raw=true)
+ ![output](https://github.com/Saibandhavi75/Experiment-2--Implementation-of-Perceptron/blob/main/4-5.png?raw=true)
 ### Result:
 Thus a perceptron for classification is implemented using python
 
